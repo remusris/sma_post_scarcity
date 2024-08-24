@@ -1,8 +1,8 @@
 "use client"
 
 import Image from "next/image";
-import ResourceAllocationNetwork from './components/ResourceAllocationNetwork';
-import DynamicResourceAllocationNetwork from './components/DynamicResourceAllocationNetwork';
+import ResourceAllocationNetwork from '@/components/ResourceAllocationNetwork';
+import DynamicResourceAllocationNetwork from '@/components/DynamicResourceAllocationNetwork';
 
 export default function Home() {
   return (
